@@ -1,0 +1,19 @@
+﻿Build started 8/13/2020 3:15:55 PM.
+     1>Project "C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612104\5.1\week 6\01\01\01.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\01.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 001.cpp
+         001.cpp
+     1>c:\users\admin\documents\visual studio 2010\projects\6306021612104\5.1\week 6\01\01\001.cpp(41): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\6306021612104\5.1\week 6\01\01\001.cpp(44): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\admin\documents\visual studio 2010\projects\6306021612104\5.1\week 6\01\01\001.cpp(44): error C2082: redefinition of formal parameter 'f_radius'
+     1>c:\users\admin\documents\visual studio 2010\projects\6306021612104\5.1\week 6\01\01\001.cpp(44): error C2082: redefinition of formal parameter 'r_area'
+     1>c:\users\admin\documents\visual studio 2010\projects\6306021612104\5.1\week 6\01\01\001.cpp(45): error C2082: redefinition of formal parameter 'r_area'
+     1>c:\users\admin\documents\visual studio 2010\projects\6306021612104\5.1\week 6\01\01\001.cpp(45): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\admin\documents\visual studio 2010\projects\6306021612104\5.1\week 6\01\01\001.cpp(46): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>Done Building Project "C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\6306021612104\5.1\week 6\01\01\01.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.30
